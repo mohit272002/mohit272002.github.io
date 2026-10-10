@@ -1,0 +1,8 @@
+# AI tooling metadata — local only, never publish
+.refact/
+
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
